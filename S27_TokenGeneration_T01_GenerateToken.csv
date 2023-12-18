@@ -1,0 +1,2 @@
+P_T01_UserID,P_T01_UserMobile,P_T01_DeviceID,P_T01_Issuer,P_T01_sub,P_T01_email_verified,P_T01_activation_date,P_T01_created_date,P_T01_CTTL,P_T01_ClientID,P_T01_SlidingRefreshTokenLifetime,P_T01_AccessTokenLifeTime,P_T01_access_token_type
+5cba9e1f-e8cb-4492-81e2-3a113eedc6d7,919981217629,8C5D58CF-5E65-4DD9-B23E-D7E66D7E32B4,https://zee5-uapi-qc-alb.zee5.be,5cba9e1f-e8cb-4492-81e2-3a113eedc6d7,0,2023-03-14T06:42:20.887Z,2023-03-14T06:42:20.887Z,1800,refresh_token_client,15780000,43200,DefaultPrivilege
